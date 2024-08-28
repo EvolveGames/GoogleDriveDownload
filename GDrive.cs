@@ -2,8 +2,6 @@
 using System.Net;
 using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
 
 namespace GoogleDriveDownload
 {
